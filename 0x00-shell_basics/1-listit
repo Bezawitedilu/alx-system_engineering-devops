@@ -1,3 +1,2 @@
-wc -l 1-listit
-[A[C[C[C[C[C[C[C[C[C[C[C#!/bin/bash
-ls
+#!bin/bash
+pwd
