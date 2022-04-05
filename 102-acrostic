@@ -1,2 +1,2 @@
-#!/ibn/bash
-cut -c l | paste -s -d ''
+#!/ban/bash
+cut -c1 | paste -s tr -d "[:blank:]"
